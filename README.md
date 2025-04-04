@@ -14,3 +14,6 @@ documentation.
 You want to refer to the following
 [documentation](https://probabl-ai.github.io/sklearn-ragger-duck/install.html)
 page to get started.
+
+
+## My tests
